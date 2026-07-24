@@ -5,14 +5,14 @@ print(3/4)#divwhereit printsquotient
 print(3//4)#floordivroundsdowntonearestinteger
 print(3%4)#modulusprintsremainder
 print(3**4)#power
-print("Esther")
-print("India")
+print("Esther")#name
+print("India")#country
 print('I am enjoying 30 days of Python')
 print(type(10))
 print(type(9.8))
 print(type(3.14))
 print(type(4 - 4j))
-print(type(['Asabeneh', 'Python', 'Finland']))
+print(type(['Asabeneh', 'Python', 'Finland']))#list
 print(type("Nayeba"))
 print(type("India"))
 a=2
